@@ -35,8 +35,8 @@ import tripguide from "./tripguide.png";
 import logo from "./logo.jpeg";
 import library from "./library.png";
 import trucker from "./trucker.png";
-import epark from "./jobit.png";
-import fm from "./carrent.png";
+import epark from "./epark.jpg";
+import fm from "./frmrmrkt.jpg";
 
 export {
   c,
